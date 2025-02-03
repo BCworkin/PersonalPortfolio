@@ -1,6 +1,12 @@
 import React from 'react';
+import './Home.css'
 
-const Home = () => <h2>Home Page</h2>;
+const Home = () => {
+    return (
+        <div>
+        </div>
+    )
 
+}
 
 export default Home;
